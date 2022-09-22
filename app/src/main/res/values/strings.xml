@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Investidor_analise</string>
+    <string name="first_background">First Background</string>
+    <string name="analisador_de_perfil_de_investidor">Analisador de Perfil de Investidor</string>
+    <string name="entre_com_o_seu_nome">Entre com o seu nome</string>
+    <string name="iniciar">Iniciar</string>
+</resources>
