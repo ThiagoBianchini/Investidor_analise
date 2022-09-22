@@ -52,7 +52,7 @@
         android:id="@+id/button2"
         android:layout_width="121dp"
         android:layout_height="47dp"
-        android:background="#F4BC1C"
+        android:background="@drawable/roundbutton"
         android:text="@string/iniciar"
         android:textAlignment="center"
         android:textSize="28sp"
