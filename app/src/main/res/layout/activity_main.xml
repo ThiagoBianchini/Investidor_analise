@@ -72,7 +72,7 @@
         android:layout_height="60dp"
         android:layout_marginTop="92dp"
         android:autofillHints="username"
-        android:backgroundTint="#F4BC1C"
+        android:backgroundTint="@color/yellow"
         android:hint="@string/entre_com_o_seu_nome"
         android:inputType="textPersonName"
         android:textAlignment="center"
